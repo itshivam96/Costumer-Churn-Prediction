@@ -4,7 +4,7 @@ Predicting customer churn using machine learning to help businesses retain valua
 
 ## 📌 Table of Contents
 
-- [Overview](#overview)
+- [Overview](##overview)
 - [Problem Statement](#problem-statement)
 - [Dataset](#dataset)
 - [Project Architecture](#project-architecture)
@@ -14,7 +14,7 @@ Predicting customer churn using machine learning to help businesses retain valua
 - [Results](#results)
 - [Future Work](#future-work)
 - [Contributing](#contributing)
-- [License](#license)
+- [License](##license)
 
 ## 📖 Overview
 
