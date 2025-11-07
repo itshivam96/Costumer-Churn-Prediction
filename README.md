@@ -64,7 +64,7 @@ Given customer data including demographics, usage patterns, and service history,
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/yourusername/Customer-Churn-Prediction.git
+git clone https://github.com/itshivam96/Customer-Churn-Prediction.git
 cd Customer-Churn-Prediction
 pip install -r requirements.txt
 ```
