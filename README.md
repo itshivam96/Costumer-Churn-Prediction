@@ -4,21 +4,22 @@ Predicting customer churn using machine learning to help businesses retain valua
 
 ## 📌 Table of Contents
 
-- [Overview](##overview)
-- [Problem Statement](#problem-statement)
-- [Dataset](#dataset)
-- [Project Architecture](#project-architecture)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [Future Work](#future-work)
-- [Contributing](#contributing)
-- [License](##license)
+- [Overview](#-overview)
+- [Problem Statement](#-problem-statement)
+- [Dataset](#-dataset)
+- [Project Architecture](#-project-architecture)
+- [Technologies Used](#-technologies-used)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Results](#-results)
+- [Future Work](#-future-work)
+- [Contributing](#-contributing)
+- [License](#-license)
 
 ## 📖 Overview
 
 Customer churn prediction is a critical task for businesses aiming to retain customers and improve profitability. This project uses machine learning techniques to analyze customer behavior and predict the likelihood of churn.
+<img width="343" height="203" alt="download" src="https://github.com/user-attachments/assets/df88b66f-1313-48b1-8416-ca2babcdb622" />
 
 ## ❓ Problem Statement
 
