@@ -1,6 +1,7 @@
 # 🧠 Customer Churn Prediction
 
 Predicting customer churn using machine learning to help businesses retain valuable customers and reduce attrition.
+![Churn_dashboard](Churn_Dashboard.png)
 
 ## 📌 Table of Contents
 
